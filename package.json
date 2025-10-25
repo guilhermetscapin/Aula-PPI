@@ -1,0 +1,30 @@
+{
+  "name": "aula-ppi",
+  "version": "1.0.0",
+  "description": "Reajuste de Salário",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermetscapin/Aula-PPI.git"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "node",
+    "PPI"
+  ],
+  "author": "Guilherme Torres Scapin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermetscapin/Aula-PPI/issues"
+  },
+  "homepage": "https://github.com/guilhermetscapin/Aula-PPI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
