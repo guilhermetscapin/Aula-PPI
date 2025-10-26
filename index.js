@@ -24,10 +24,9 @@ server.get('/', (req, resp) => {
 });
 
 server.get('/tabuada', (req, resp) => {
-    console.log("oi");
+    console.log("Requisição tabuada");
 });
 
 server.listen(porta, host, () => {
     console.log(`Servidor escutando em http://${host}:${porta}`);
 });
-
